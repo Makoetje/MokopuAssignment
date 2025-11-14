@@ -1,0 +1,18 @@
+column_name,data_type,missing_count,missing_percentage,fill_value_used
+Previous qualification (grade),numeric,3,0.06781193490054249,133.1
+Admission grade,numeric,3,0.06781193490054249,126.1
+Tuition fees up to date,numeric,2,0.045207956600361664,1.0
+Marital status,numeric,1,0.022603978300180832,1.0
+Application mode,numeric,1,0.022603978300180832,17.0
+Nacionality,numeric,1,0.022603978300180832,1.0
+Course,numeric,1,0.022603978300180832,9238.0
+Father's qualification,numeric,1,0.022603978300180832,19.0
+Mother's qualification,numeric,1,0.022603978300180832,19.0
+Gender,numeric,1,0.022603978300180832,0.0
+Curricular units 1st sem (grade),numeric,1,0.022603978300180832,12.28571429
+Curricular units 2nd sem (credited),numeric,1,0.022603978300180832,0.0
+Curricular units 2nd sem (evaluations),numeric,1,0.022603978300180832,8.0
+Curricular units 2nd sem (grade),numeric,1,0.022603978300180832,12.2
+Curricular units 2nd sem (without evaluations),numeric,1,0.022603978300180832,0.0
+Unemployment rate,numeric,1,0.022603978300180832,11.1
+Inflation rate,numeric,1,0.022603978300180832,1.4
